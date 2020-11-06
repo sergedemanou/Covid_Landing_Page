@@ -1,0 +1,50 @@
+/*debut du CSS*/
+
+
+#pop{
+	width: 100%;
+	height: 500px;
+
+}
+.carousel-caption{
+	bottom: 34% !important;
+	font-size: 50px;
+}
+.tree{
+	padding-bottom: 87px !important;
+
+}
+.top{
+	padding-bottom: 65px !important;
+
+}
+.vip{
+	padding-bottom: 95px !important;
+
+}
+.navbar-brand{
+	text-decoration-color: green; 
+}
+#you{
+	height: 200px;
+	size: 20px;
+	width: 100px;
+}
+
+.container1{
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+.jumbotronjumbotron-fluid{
+	background-color: black;
+	height: 100px;
+	justify-content: center;
+}
+.card{
+	box-shadow: 0 0 20px gray;
+ }
+
+.card-deck{
+	   margin: 0 20px!important;
+}
